@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90e06aafa469e7499d608fd022cbab17",
+    "revision": "a4d0adb4786e6374abdfb01da42818ba",
     "url": "/website/index.html"
   },
   {
-    "revision": "4d4156259602600da091",
+    "revision": "a7eb33a10970f49a1747",
     "url": "/website/static/css/main.8a522ceb.chunk.css"
   },
   {
-    "revision": "d011e1baf840429341a0",
-    "url": "/website/static/js/2.56d646ba.chunk.js"
+    "revision": "ffb529972f7b22559fc2",
+    "url": "/website/static/js/2.9baa3fb8.chunk.js"
   },
   {
-    "revision": "4d4156259602600da091",
-    "url": "/website/static/js/main.15afa2aa.chunk.js"
+    "revision": "a7eb33a10970f49a1747",
+    "url": "/website/static/js/main.9432a192.chunk.js"
   },
   {
     "revision": "d15da1c5dbbceb93f3a7",
@@ -22,5 +22,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6bc84415149cb4b4d90fd86fb4a565c7",
     "url": "/website/static/media/groupphoto.6bc84415.jpg"
+  },
+  {
+    "revision": "5e46e0a00242a0a944fa78994d4993be",
+    "url": "/website/static/media/map.5e46e0a0.png"
   }
 ]);
